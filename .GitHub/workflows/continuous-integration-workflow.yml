@@ -1,2 +1,5 @@
+# This workflow is triggered on pushes to the repository.
+on: push
+
 - name: image-actions
   uses: calibreapp/image-actions@1.0.0
